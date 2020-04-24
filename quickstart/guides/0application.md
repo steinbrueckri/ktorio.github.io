@@ -1,6 +1,6 @@
 ---
 title: First App
-caption: Creating Your First Application
+caption: Creating Your First Application (- Obsolete)
 category: quickstart
 permalink: https://play.kotlinlang.org/hands-on/Getting%20Started%20with%20Ktor/01_introduction
 redirect_from:
